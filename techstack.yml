@@ -1,0 +1,40 @@
+repo_name: jimbrig/awesome-r-pkgtools
+report_id: c507c977a27a659cf2aed67c5997679c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:59:00+00:00'
+requested_by: IndrajeetPatil
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/jimbrig/awesome-r-pkgtools
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/awesome-r-pkgtools
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jimbrig/awesome-r-pkgtools/blob/master/README.html
+  detection_source: README.html
+  last_updated_by: Indrajeet Patil
+  last_updated_on: 2022-04-05 18:06:45.000000000 Z
